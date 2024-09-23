@@ -20,5 +20,5 @@ To run the bot, you will need:
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/discord-bot-project.git
+   git clone https://github.com/AbdulsaboorS/discord-bot-project.git
    cd discord-bot-project
