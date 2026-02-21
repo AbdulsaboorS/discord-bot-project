@@ -1,0 +1,11 @@
+# Discord bot
+discord.py>=2.4.0
+
+# NLP - key phrase extraction
+spacy>=3.7.0
+
+# HTTP client for Azure API
+requests>=2.31.0
+
+# Optional: load .env for local development
+python-dotenv>=1.0.0
